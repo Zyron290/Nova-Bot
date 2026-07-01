@@ -2,9 +2,9 @@
   "name": "nova-guard",
   "version": "1.0.0",
   "description": "Bot Guardia para un servidor de discord",
-  "main": "ping.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node ping.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "@napi-rs/canvas": "^1.0.2",
